@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical">
+
+  <Button
+    android:id="@+id/btn"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_centerInParent="true" />
+</LinearLayout>
+<!-- From: file:/D:/Android2.3.3/project/Quote/GuideView-master/app/src/main/res/layout/item.xml -->
